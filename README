@@ -1,0 +1,7 @@
+This is the repository for the input financial data.
+
+The operating system is Linux Mint Debian Edition with GNOME.
+
+Note that Doppler Value Investing standardizes around the *.csv format.
+
+You can open these files through LibreOffice Calc.  The only options you need to change are the separator options.  Select separated by comma.
